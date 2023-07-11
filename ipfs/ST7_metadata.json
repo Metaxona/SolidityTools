@@ -1,0 +1,15 @@
+{
+    "name": "SolidityTools721",
+    "attributes": [
+        {
+            "trait_type": "Network",
+            "value": "Sepolia" 
+        },
+        {
+            "trait_type": "Purpose",
+            "value": "Development & Testing"
+        }
+    ],
+    "image": "https://ipfs.io/ipfs/QmPoLYQBnCCNYcRkAE395ybyKjbN7mh64axCmXu5KXAFCX",
+    "description": "SolidityTools Token for testing purposes on sepolia network"
+}
