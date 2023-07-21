@@ -11,12 +11,12 @@ import './index.css'
 
 ReactDOM.createRoot(document.getElementById('root')).render(
   <React.StrictMode>
-    <BrowserRouter>
-      <WagmiConfig config={wagmiConfig}>
-        <RainbowKitProvider chains={chains} initialChain={sepolia} theme={{ lightMode: lightTheme(), darkMode: darkTheme(),}}>
+    <WagmiConfig config={wagmiConfig}>
+      <RainbowKitProvider chains={chains} initialChain={sepolia} theme={{ lightMode: lightTheme(), darkMode: darkTheme(),}}>
+        <BrowserRouter>
           <App />
-        </RainbowKitProvider>
-      </WagmiConfig>
-    </BrowserRouter>
+        </BrowserRouter>
+      </RainbowKitProvider>
+    </WagmiConfig>
   </React.StrictMode>,
 )

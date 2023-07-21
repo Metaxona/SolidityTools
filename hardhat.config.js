@@ -19,6 +19,7 @@ module.exports = {
     sepolia: {
       url: process.env.SEPOLIA_RPC_URL, // Sepolia RPC
       accounts: [process.env.TEST_PRIVATE_KEY] // Test wallet with Native Token For Deployment 
+      
     },
     // goerli: {url: "", accounts : []},
     // polygonMumbai: {url: "", accounts : []},
