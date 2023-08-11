@@ -19,3 +19,15 @@
 ## Calculators
 
 ## Tutorials?? (Pending)
+
+## Features
+
+- Token Faucets [Done]
+- NFT Faucets [Done]
+- Indexer [Pending]
+- ERC Transfers [Pending]
+- ERC Approvals And Revoke [Pending]
+- Calculators [Pending]
+  - Denominations To Denominations [Pending]
+  - Contract Size Checker [Pending]
+- ABIs (ERC20, ERC721, ERC1155) [Pending]
